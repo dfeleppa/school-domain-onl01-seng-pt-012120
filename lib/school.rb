@@ -10,5 +10,13 @@ class School
     roster ||= []
     @roster[grade] << student
   end
-
+  
+  def grade(num)
+    num = 
+  
+  end
+  
+  def sort 
+    
+  end
 end
