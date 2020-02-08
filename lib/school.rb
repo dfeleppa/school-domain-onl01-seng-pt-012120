@@ -3,8 +3,8 @@ class School
   
   roster = {}
   
-  def add_student(student, age)
-    roster[student] << #{age}
-   end
+  def add_student(student, grade
+    roster[student] << #{grade}
+  end
 end
 
