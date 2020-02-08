@@ -11,4 +11,12 @@ class School
     #roster ||= []
     @roster[grade] << student
   end
+  
+  def grade
+  
+  end
+  
+  def sort 
+    
+  end
 end
